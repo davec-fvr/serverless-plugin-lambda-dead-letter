@@ -19,13 +19,13 @@
     "Dave Conley <davec-fvr@users.noreply.github.com>"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/digitalmaas/serverless-plugin-lambda-dead-letter#readme",
+  "homepage": "https://github.com/davec-fvr/serverless-plugin-lambda-dead-letter#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/digitalmaas/serverless-plugin-lambda-dead-letter"
+    "url": "https://github.com/davec-fvr/serverless-plugin-lambda-dead-letter"
   },
   "bugs": {
-    "url": "https://github.com/digitalmaas/serverless-plugin-lambda-dead-letter/issues"
+    "url": "https://github.com/davec-fvr/serverless-plugin-lambda-dead-letter/issues"
   },
   "keywords": [
     "serverless",
@@ -48,7 +48,7 @@
   ],
   "dependencies": {
     "bluebird": "^3.4.7",
-    "semver": "^7.3.5"
+    "semver": "^7.5.2"
   },
   "devDependencies": {
     "@commitlint/cli": "16.2.1",
