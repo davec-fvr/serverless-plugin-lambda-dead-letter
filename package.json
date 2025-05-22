@@ -1,5 +1,5 @@
 {
-  "name": "@digitalmaas/serverless-plugin-lambda-dead-letter",
+  "name": "@davec-fvr/serverless-plugin-lambda-dead-letter",
   "version": "0.0.0-semantic",
   "description": "serverless plugin that can configure a lambda with a dead letter queue or topic",
   "main": "src/index.js",
@@ -15,7 +15,8 @@
   "author": "Gary Metzker",
   "contributors": [
     "Harrison Bowers <Hbowers@users.noreply.github.com>",
-    "Ricardo Nolde <nolde@users.noreply.github.com>"
+    "Ricardo Nolde <nolde@users.noreply.github.com>",
+    "Dave Conley <davec-fvr@users.noreply.github.com>"
   ],
   "license": "MIT",
   "homepage": "https://github.com/digitalmaas/serverless-plugin-lambda-dead-letter#readme",
