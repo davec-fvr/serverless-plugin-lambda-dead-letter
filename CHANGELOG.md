@@ -1,3 +1,12 @@
+## 1.0.0 (2025-05-22)
+
+
+### Bug Fixes
+
+* Add configuration schema to plugin ([d51ac0c](https://github.com/davec-fvr/serverless-plugin-lambda-dead-letter/commit/d51ac0c84dff98930050b74c1558eb75633d6770))
+* fixed validation and updated publish workflow ([1d4756f](https://github.com/davec-fvr/serverless-plugin-lambda-dead-letter/commit/1d4756f726e3a795ea05f45ca4ca133341e3d6dc))
+* updated lifecycle hook for v3 required changes ([59618f5](https://github.com/davec-fvr/serverless-plugin-lambda-dead-letter/commit/59618f52b317e49570c543d6fc91cada5f76681d))
+
 ## 1.0.0 (2023-02-24)
 
 
