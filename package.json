@@ -1,5 +1,5 @@
 {
-  "name": "@davec-fvr/serverless-plugin-lambda-dead-letter",
+  "name": "@davec-funvr/serverless-plugin-lambda-dead-letter",
   "version": "0.0.0-semantic",
   "description": "serverless plugin that can configure a lambda with a dead letter queue or topic",
   "main": "src/index.js",
